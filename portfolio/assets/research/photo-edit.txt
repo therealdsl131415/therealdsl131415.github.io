@@ -1,1 +1,0 @@
-Built-in image editor prompt: Redact only the bottom handwritten password line on the small whiteboard with an opaque black rectangle. Preserve the equipment, framing, colors, labels, and photographic details. Do not reproduce the password.
